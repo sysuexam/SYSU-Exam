@@ -1,7 +1,7 @@
 # SYSU-Exam
 本仓库用于整理SYSU期末考试的往年试卷、复习资料，为同学们期末考试助力。
 
-建议使用[Octotree](octotree)插件进行浏览。
+建议使用[Octotree](https://github.com/buunguyen/octotree)插件进行浏览。
 
 # 贡献文件
 欢迎分享你所得到的考卷、复习资料！分享前，请确定以下几个事项：
@@ -19,7 +19,8 @@
 *   /科目/专业-任课教师姓氏/试卷文件
 
 ## 文件格式
-*   
+*   doc文件请转换成pdf，与原本的doc文件一并上传
+*   压缩包格式使用.zip
 
 ## 分享方式
 1.  拉取本仓库后，添加你的文件，发起github的pull request
@@ -27,5 +28,3 @@
 
 # LICENSE
 MIT-LICENSE
-
-[octotree]: https://github.com/buunguyen/octotree
