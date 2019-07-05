@@ -1,0 +1,60 @@
+1.How many statement are true?
+(1) 'Find Product Help' with underline in a use case text means emphasis
+(2) In practical OOD, we draw interactive diagram firstly, and then draw Design Class Diagram
+(3) Software Engineering are the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+2.How many statement are true?
+(1) Any UML diagram in OOA must describe the System as Black Box
+(2) XP 'story card' practice is acceptable for catching requirements in UP.
+(3) An object in domain layer can send messages to an UI object
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+3.How many statement are true?
+(1) Interface is a UML classifier
+(2) Primary actors always be on the left and supporting actors on the right in UML Use Case Diagram
+(3) A timer may be a special actor of the system
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+4.How many statement are true?
+(1) A domain model is a visual representation of conceptual classes or real-situation objects in a domain
+(2) In Agile modeling, the purpose of modeling (sketching UML, …) is primarily to understand, not to document
+(3) Use-case-driven means the development team employs the use cases from requirements gathering through code and test
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+5.How many statement are true?
+(1) The System Event handled by model layer in the MVC pattern
+(2) Showing a report object in a domain model is always useful.
+(3) It is more than a few weeks long for most projects in Inception.
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+6.How many statement are true?
+(1) A use case named 'Manage <X>', such as manage user, means that the user goal is to collapse(集中) CRUD on object X 
+(2) Finding stakeholders of the system is the most important thing for catching requirements
+(3) In domian model, only show some meaningful and interesting associations among classes
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+7.How many statement are true?
+(1) The message 'd = getProductDescription(id)' in sequence diagram is wrong syntax for missing a type of id
+(2) In UP, a suitable iteration length is two to six weeks timebox
+(3) The candidate use case 'Log In' can pass usefull Test, for we use it every day
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+8.How many statement are true?
+(1) Composition in the UML loosely suggests whole-part relationships
+(2) The same UML diagram can be used in multiple perspectives
+(3) Incremental development for the same use case across iterations
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+9.How many statement are true?
+(1) An end user can find the operation process in UML Use Case Diagram
+(2) A '/' symbol before the attribute name is wrong in domain model
+(3) Inception in one sentence: Envision the product scope, vision, and business case
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+10.How many statement are true?
+(1) In Agile Principles, our highest priority is early and continuously deliver valuable software to customer
+(2) In UP, A Kickoff meeting should be hold to clarify goals in days at the beginning of iteration
+(3) Logical Architecture divides the software classes into packages, subsystems, and layers 
+Answer is:  A  0,  B  1,  C  2,  D  3
+
