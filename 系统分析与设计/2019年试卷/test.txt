@@ -1,0 +1,60 @@
+1.How many statement are true?
+(1) Fundamental object design is OO-principles and design patterns, not knowing how to draw UML
+(2) Iterative and incremental approach allows start of work with incomplete, imperfect knowledge
+(3) In Agile modeling, the purpose of modeling (sketching UML, ¡­) is primarily to document
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+2.How many statement are true?
+(1) The System Event handled by controller layer in the MVC pattern
+(2) 'condition: actions ...' structure can be used to describe a Use case Main Success Scenario
+(3) Composition Over Aggregation
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+3.How many statement are true?
+(1) A system sequence diagram is a picture that shows the whole use case interactions among actors and the system
+(2) Software Engineering are the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software
+(3) Use Cases are functional or behavioral requirements that indicate what the system will do. they emphasize the 'F' 
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+4.How many statement are true?
+(1) A use case named 'Manage <X>', such as manage user, means that the user goal is to collapse(¼¯ÖÐ) CRUD on object X 
+(2) Logical Architecture divides the software classes into packages, subsystems, and layers 
+(3) In UP, A Kickoff meeting should be hold to clarify goals in two-hours at the beginning of iteration
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+5.How many statement are true?
+(1) Use Case Diagram gives a nice context diagram of a system and its environment
+(2) Primary actors always be on the left and supporting actors on the right in UML Use Case Diagram
+(3) An object in domain layer can send messages to an UI object
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+6.How many statement are true?
+(1) Incremental development for the same use case across iterations
+(2) System Event and System Operation are the same conceptual in System Sequence Diagram, such as makeNewSale()
+(3) The Waterfall Process(model) represents a mainstream approach for software development
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+7.How many statement are true?
+(1) 'The system writes the sale to a database' in Use Case text is good
+(2) Attributes are usually assumed private if no visibility is given
+(3) An end user can find the operation process in UML Use Case Diagram
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+8.How many statement are true?
+(1) UML is guidelines for OO design
+(2) The same UML diagram can be used in multiple perspectives
+(3) Object A sends a message 'DoX()' to a object B, that means the Class of A has a operation 'DoX()'
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+9.How many statement are true?
+(1) UML can be applied in software analysis, design and implementation perspective
+(2) The database manage system is a most common actor for a System
+(3) The message 'd = getProductDescription(id)' in sequence diagram is wrong syntax for missing a type of id
+Answer is:  A  0,  B  1,  C  2,  D  3
+
+10.How many statement are true?
+(1) Most requirements analysis during the inception phase
+(2) Drawing UML is a only reflection of making decisions about your design
+(3) In elaboration, we do not need deliver a runnable product to user for testing
+Answer is:  A  0,  B  1,  C  2,  D  3
+
