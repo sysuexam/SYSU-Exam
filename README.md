@@ -3,6 +3,8 @@
 
 推荐使用[Octotree](https://github.com/buunguyen/octotree)等插件进行浏览。
 
+下载慢请使用加速版：https://gitee.com/sysuexam/SYSU-Exam
+
 # 贡献资料
 欢迎分享你所得到的复习资料！分享前，请确定以下几个事项：
 
